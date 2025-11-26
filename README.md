@@ -1,4 +1,7 @@
+
 # EX 10 : ANIMATION USING FLASH
+# Name: B.Tharun
+# Reg no: 212224240171
 
 
 ## AIM
@@ -65,3 +68,8 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+![Screenshot 2025-05-22 015146](https://github.com/user-attachments/assets/62b5490d-2d63-40de-9b3d-13d6e2c109f2)
+
+
+## RESULT:
+To create a motion tweening, shape tweening, guide layer and masking using Flash is verified
